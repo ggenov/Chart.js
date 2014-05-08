@@ -1,0 +1,28 @@
+{
+  "name": "charts.js.buzzstarter",
+  "version": "1.0.0",
+  "main": [
+    "./Chart.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.2"
+  },
+  "ignore": [
+    "test",
+    ".*",
+    "*.json",
+    "*.md",
+    "*.txt",
+    "Gruntfile.js"
+  ],
+  "homepage": "https://github.com/ggenov/Chart.js",
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.4.0",
+    "commit": "3caf209abe30a856789d0ceb464c297dfdbe670e"
+  },
+  "_source": "git@github.com:ggenov/Chart.js.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:ggenov/Chart.js.git"
+}
